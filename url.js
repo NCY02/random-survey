@@ -8,8 +8,7 @@
 
 
 const urls = [
-	'https://ncyyu2.wixsite.com/chat-1',
-	'https://ncyyu2.wixsite.com/chat-2',
-	'https://ncyyu2.wixsite.com/chat-3',
-	'https://ncyyu2.wixsite.com/chat-4'
+	'https://hhming.moe',
+	'https://github.com/hms5232',
+	'https://gitlab.com/hms5232'
 ];
